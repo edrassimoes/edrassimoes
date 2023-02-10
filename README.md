@@ -1,4 +1,4 @@
- <strong>Hi there! I'm Edras 👋</strong> <em>~ its a diferent name, i know ~</em>
+ <strong>Hi there! I'm Edras 👋</strong> <em> ~ its a diferent name, i know ~ </em>
   
   🎓 Student of Software Engineering at [Inatel](https://inatel.br)</a> and aspiring web developer.
   
@@ -12,6 +12,6 @@
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </p>
   
-  <em> ~ and thats all I wanted to share here, now go away </em> (╯◕_◕)╯
+  <em> ... and thats all I wanted to share here, now go away </em> (╯◕_◕)╯
 
 <img align="right" src="img.png" width="500" height="300">
