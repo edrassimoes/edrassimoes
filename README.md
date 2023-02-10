@@ -1,6 +1,6 @@
 <body>
   <h1>Hi, I'm Edras 👋</h1>
-  <img align="right" src="https://static.vecteezy.com/system/resources/previews/011/153/359/original/3d-website-developer-working-on-laptop-illustration-png.png" width="200" height="200">
+  <img align="right" src="https://static.vecteezy.com/system/resources/previews/011/153/359/original/3d-website-developer-working-on-laptop-illustration-png.png" width="400" height="400">
  
   <p>I'm from <img align="bottom" src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/61994/brazil-flag-emoji-clipart-xl.png" width="20" height="20">       <b>Minas Gerais, Brazil</b></p>
   <p>🎓 Student at <a href=" https://inatel.br/"> <strong>Inatel</strong></a> and aspiring web developer.</p>
