@@ -2,7 +2,7 @@
 <p>I'm from <img src="https://em-content.zobj.net/thumbs/160/twitter/141/flag-for-brazil_1f1e7-1f1f7.png" width="13"/> <b>Minas Gerais, Brazil</b></p>
 🎓 Student at [**Inatel**][ur] and aspiring web developer. 
 [ur]: https://inatel.br/
-📚 Currently, I'm learning:
+<p>📚 Currently, I'm learning:</p>
 <p> 
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
