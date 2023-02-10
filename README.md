@@ -1,5 +1,5 @@
 ### Hi, I'm Edras 👋
-Student at [**Inatel**][url] and aspiring web developer.
+Student at [**Inatel**][ur] and aspiring web developer.
 
 
 [ur]: https://inatel.br/
