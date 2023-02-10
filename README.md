@@ -1,6 +1,6 @@
 <body>
   <h1>Hi, I'm Edras 👋</h1>
-  <p>I'm from <img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/61490/brazil-flag-emoji-clipart-xl.png" width="15" height="15"> <b>Minas Gerais, Brazil</b></p>
+  <p>I'm from <img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/61490/brazil-flag-emoji-clipart-xl.png" width="25" height="25"> <b>Minas Gerais, Brazil</b></p>
   <p>🎓 Student at <a href=" https://inatel.br/"> <strong>Inatel</strong></a> and aspiring web developer.</p>
   <p>📚 Currently, I'm learning:</p>
   <p> 
