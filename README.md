@@ -1,6 +1,6 @@
 ### Hi, I'm Edras 👋
 🎓 Student at [**Inatel**][ur] and aspiring web developer.
-[ur]: https://inatel.br/
+
 📚 Currently, learning:
 
 <p> 
@@ -8,3 +8,4 @@
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
+[ur]: https://inatel.br/
