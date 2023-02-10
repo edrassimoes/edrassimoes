@@ -1,5 +1,5 @@
 ### Hi, I'm Edras 👋
-I'm from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Minas Gerais, Brazil</b>
+<p>I'm from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Minas Gerais, Brazil</b></p>
 🎓 Student at [**Inatel**][ur] and aspiring web developer.
 
 📚 Currently, I'm learning:
