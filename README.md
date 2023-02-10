@@ -1,6 +1,6 @@
 <h1>Hi, I'm Edras 👋</h1>
 <p>I'm from <img src="https://em-content.zobj.net/thumbs/160/twitter/141/flag-for-brazil_1f1e7-1f1f7.png" width="13"/> <b>Minas Gerais, Brazil</b></p>
-</p>🎓 Student at <a href=" https://inatel.br/"> <strong>Inatel</strong></a> and aspiring web developer.</p>
+<p>🎓 Student at <a href=" https://inatel.br/"> <strong>Inatel</strong></a> and aspiring web developer.</p>
 <p>📚 Currently, I'm learning:</p>
 <p> 
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
