@@ -1,5 +1,5 @@
 <body>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi,%I'm%EdrasfontSize=90" />
   <div id="user-content-toc">
     <ul>
       <summary><h1 style="display: inline-block;">Hi, I'm Edras 👋</h1></summary>
