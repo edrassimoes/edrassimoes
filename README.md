@@ -1,2 +1,2 @@
 ### Hi, I'm Edras 👋
-Student at :shipit: [**Inatel**] and aspiring web developer. 
+Student at [**Inatel**] and aspiring web developer. 
