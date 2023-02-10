@@ -2,6 +2,7 @@
   <div id="user-content-toc">
     <ul>
       <summary><h1 style="display: inline-block;">Hi, I'm Edras 👋</h1></summary>
+      <img align="right" src="https://static.vecteezy.com/system/resources/previews/011/153/359/original/3d-website-developer-working-on-laptop-illustration-png.png" width="350" height="350">
     </ul>
   </div>
  
@@ -13,5 +14,5 @@
     <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </p>
-  <p><img align="right" src="https://static.vecteezy.com/system/resources/previews/011/153/359/original/3d-website-developer-working-on-laptop-illustration-png.png" width="350" height="350"></p>
+  <p></p>
 </body> 
