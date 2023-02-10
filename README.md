@@ -1,5 +1,5 @@
 ### Hi, I'm Edras 👋
-
+Student at Inatel and aspiring web developer. 
 <!--
 **edrassimoes/edrassimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
