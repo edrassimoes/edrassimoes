@@ -1,6 +1,6 @@
-### Hi, I'm Edras 👋
+<h1>Hi, I'm Edras 👋</h1>
 <p>I'm from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Minas Gerais, Brazil</b></p>
-🎓 Student at [**Inatel**][ur] and aspiring web developer.
+<p>🎓 Student at [**Inatel**][ur] and aspiring web developer.</p>
 
 📚 Currently, I'm learning:
 
