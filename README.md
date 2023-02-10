@@ -1,6 +1,6 @@
 <body>
   <h1>Hi, I'm Edras 👋</h1>
-  <p>I'm from <img src="![image](https://user-images.githubusercontent.com/88869141/218209269-20cb08b7-3848-4772-9876-6a1f83413a8a.png)"/> <b>Minas Gerais, Brazil</b></p>
+  <p>I'm from <img src="https://user-images.githubusercontent.com/88869141/218209269-20cb08b7-3848-4772-9876-6a1f83413a8a.png"/> <b>Minas Gerais, Brazil</b></p>
   <p>🎓 Student at <a href=" https://inatel.br/"> <strong>Inatel</strong></a> and aspiring web developer.</p>
   <p>📚 Currently, I'm learning:</p>
   <p> 
