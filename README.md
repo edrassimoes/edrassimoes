@@ -1,4 +1,4 @@
- ### About me:
+ ## About me:
  <strong>Hi there! I'm Edras 👋</strong> <em> ~ it's a different name, I know ~ </em>
   
   - 🎓 Student of Software Engineering at <strong>[Inatel](https://inatel.br)</strong></a> and aspiring web developer.
