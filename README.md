@@ -1,6 +1,6 @@
  <strong>Hi there! I'm Edras 👋</strong> <em> ~ it's a diferent name, I know ~ </em>
   
-  🎓 Student of Software Engineering at [Inatel](https://inatel.br)</a> and aspiring web developer.
+  🎓 Student of Software Engineering at <strong>[Inatel](https://inatel.br)</strong></a> and aspiring web developer.
   
   📚 Currently, I'm learning:
   
