@@ -1,4 +1,4 @@
- <strong>Hi there! I'm Edras 👋</strong> <em> ~ it's a diferent name, i know ~ </em>
+ <strong>Hi there! I'm Edras 👋</strong> <em> ~ it's a diferent name, I know ~ </em>
   
   🎓 Student of Software Engineering at [Inatel](https://inatel.br)</a> and aspiring web developer.
   
@@ -14,4 +14,4 @@
   
   <em> ... and that's all I wanted to share here, now go away </em> (╯◕_◕)╯
 
-<img align="right" src="img.png" width="500" height="300">
+<img align="right" src="img.png" width="400" height="400">
