@@ -12,6 +12,6 @@
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </p>
   
-  <em> ... and that's all I wanted to share here, now go away </em> (╯◕_◕)╯
+  <em> ... and that's all I wanted to share here, now go away </em> &nbsp; (╯◕_◕)╯
 
 <img align="right" src="img.png" width="50%" height="50%">
