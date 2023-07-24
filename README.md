@@ -16,7 +16,7 @@
 
   <p></p>
 
-   - 👩🏻‍💻 Techs that I work with:
+   - 👩🏻‍💻 Tools that I work with:
      
   <p></p>
 
