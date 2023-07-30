@@ -15,7 +15,7 @@
 
   <p></p>
 
-   - 👩🏻‍💻 Tools that I work with:
+   - 👩🏻‍💻 My tech stack:
      
   <p></p>
 
