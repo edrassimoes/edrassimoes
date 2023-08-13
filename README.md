@@ -3,7 +3,7 @@
  
   - 👱🏻‍♂️ 22 years old boy from Minas Gerais - Brazil &nbsp; <img align="top" src="https://emojigraph.org/media/emojidex/flag-brazil_1f1e7-1f1f7.png" width=20px height=20px> 
   
-  - 🎓 Student of Software Engineering at <strong>[Inatel](https://inatel.br)</strong></a> and aspiring web developer <em> ~ front-end only for now</em>.
+  - 🎓 Student of Software Engineering at <strong>[Inatel](https://inatel.br)</strong></a> and aspiring web developer <em> ~ front-end for now</em>.
   
   - 📚 Currently, I'm learning:
   
