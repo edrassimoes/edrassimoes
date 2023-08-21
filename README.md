@@ -27,7 +27,7 @@
   </p>
 
   <p>
-    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
   </p>
   
   <em> ... and that's all I wanted to share here, now go away </em> &nbsp; (╯◕_◕)╯
